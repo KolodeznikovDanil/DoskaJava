@@ -1,0 +1,27 @@
+com/example/doskajava/adapter/PostAdapter.java
+ com.example.doskajava.adapter.PostAdapter
+ com.example.doskajava.adapter.PostAdapter$OnItemClickCustom
+ com.example.doskajava.adapter.PostAdapter$ViewHolderData
+ com.example.doskajava.adapter.PostAdapter$ViewHolderData$1
+com/example/doskajava/MainActivity.java
+ com.example.doskajava.MainActivity
+ com.example.doskajava.MainActivity$1
+ com.example.doskajava.MainActivity$2
+ com.example.doskajava.MainActivity$3
+ com.example.doskajava.MainActivity$4
+ com.example.doskajava.MainActivity$5
+com/example/doskajava/adapter/DataSender.java
+ com.example.doskajava.adapter.DataSender
+com/example/doskajava/NewPost.java
+ com.example.doskajava.NewPost
+com/example/doskajava/EditActivity.java
+ com.example.doskajava.EditActivity
+ com.example.doskajava.EditActivity$1
+ com.example.doskajava.EditActivity$2
+ com.example.doskajava.EditActivity$3
+com/example/doskajava/BuildConfig.java
+ com.example.doskajava.BuildConfig
+com/example/doskajava/DbManager.java
+ com.example.doskajava.DbManager
+ com.example.doskajava.DbManager$1
+ com.example.doskajava.DbManager$2
